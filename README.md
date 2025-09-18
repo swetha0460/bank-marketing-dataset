@@ -28,7 +28,6 @@ Tools used
  Duplicates removed
  Checked for missing values
  Age filtering to remove outliers
-
  Id column added as primary key
 
 2. SQL (used to find hidden info from the dataset)
@@ -59,17 +58,17 @@ contacted.
  Treemap used to plot subscriptions wrt mode of contact
 
 Conclusion
- Retired people and People below 20 Years of age (most likely to be handled
+1. Retired people and People below 20 Years of age (most likely to be handled
 by parents in the name of children) are more likely to subscribe.
- Due to insufficient nature of data on marital status (mostly marked as
+2. Due to insufficient nature of data on marital status (mostly marked as
 unknown), its better not to give much importance to that factor or try to collect
 more info on their marital status.
- Data shows that non-defaulters (loan defaukters) are likely to subscribe.
+3. Data shows that non-defaulters (loan defaukters) are likely to subscribe.
 
- Contact more people who successfully got converted in the last campaign for
+4. Contact more people who successfully got converted in the last campaign for
 more conversion. It could mean that people were benefitted from the last
 campaign and ready to subscribe again.
- The more times called the less likely they are to subscribe because it could be
+5. The more times called the less likely they are to subscribe because it could be
 annoying for most people.
 All the objectives are covered in the visualization and following it could result in
 maximum conversion in less time.
